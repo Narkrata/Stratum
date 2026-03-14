@@ -1,0 +1,3 @@
+[[Celebi]]
+[[Rayquaza]]
+[[Regis]]
