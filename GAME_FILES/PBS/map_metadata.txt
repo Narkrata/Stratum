@@ -11,7 +11,7 @@ MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
-Name = \PN's house
+Name = Red's house
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
@@ -101,6 +101,9 @@ Weather = Rain,100
 MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
+#-------------------------------
+[022]   # RaltsFinal
+SnapEdges = true
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town

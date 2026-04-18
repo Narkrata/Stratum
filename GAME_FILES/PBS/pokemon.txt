@@ -23113,3 +23113,17 @@ Category = King
 Pokedex = Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.
 Generation = 8
 Flags = Legendary
+
+# ------- CUSTOM MONS ---------
+[RALTSSHADOW]
+Name = ???
+Types = PSYCHIC,GHOST
+BaseStats = 56,50,50,80,90,70
+GenderRatio = Genderless
+GrowthRate = Slow
+BaseExp = 200
+EVs = SPECIAL_ATTACK,1
+Abilities = SYNCHRONIZE,TRACE
+HiddenAbilities = TELEPATHY
+Moves = 1,PSYCHIC,1,THUNDER,1,CONFUSION,1,FUTURESIGHT
+Generation = 3

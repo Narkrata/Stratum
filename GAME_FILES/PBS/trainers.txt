@@ -116,3 +116,26 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+
+#Pokemon = ONIX,14
+#    Name = Rocky
+#    Gender = male
+#    Shiny = yes
+#    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+#    AbilityIndex = 0
+#    Item = SITRUSBERRY
+#    IV = 20,20,20,20,20,20
+#    Ball = HEAVYBALL
+
+
+#-------------------------------
+[ARENALEAD,Arena1]
+LoseText = A good battle indeed!
+Pokemon = MACHOP,14
+    Moves = LOWKICK,ROCKTOMB,FOCUSENERGY,LEER
+Pokemon = TIMBURR,15
+    Moves = DRAINPUNCH,MACHPUNCH,BULKUP,ROCKTHROW
+Pokemon = RIOLU,15
+    Moves = FORCEPALM,QUICKATTACK,COUNTER,DETECT
+Pokemon = LUCARIO,17
+    Moves = FORCEPALM,METALCLAW,QUICKATTACK,DETECT
